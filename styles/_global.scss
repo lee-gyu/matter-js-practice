@@ -1,0 +1,21 @@
+html {
+  @apply min-w-[1280px]
+    min-h-[720px]
+    bg-gray-800;
+}
+
+#root {
+  @apply w-[1280px]
+    mx-auto;
+}
+
+.app {
+}
+
+.app-header {
+  @apply border-b
+    border-gray-500
+    h-12
+    text-white
+    leading-[3rem];
+}

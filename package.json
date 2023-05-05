@@ -1,0 +1,28 @@
+{
+  "engines": {
+    "node": "^18.0.0"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "devDependencies": {
+    "@types/matter-js": "^0.18.3",
+    "@types/node": "^20.0.0",
+    "@types/react": "^18.2.5",
+    "@types/react-dom": "^18.2.3",
+    "@vitejs/plugin-react": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.23",
+    "sass": "^1.62.1",
+    "tailwindcss": "^3.3.2",
+    "typescript": "^5.0.4",
+    "vite": "^4.3.5",
+    "vite-tsconfig-paths": "^4.2.0"
+  },
+  "dependencies": {
+    "matter-js": "^0.19.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
